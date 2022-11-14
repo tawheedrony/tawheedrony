@@ -12,7 +12,7 @@
 
 ### Work Experience
 
-- **Research Assistant**, [AIMS Lab](https://aimsl.uiu.ac.bd), ECE, United International University (Nov 2022 -)
+[comment]: <>  (- **Research Assistant**, [AIMS Lab](https://aimsl.uiu.ac.bd), ECE, United International University (Nov 2022 -))
 - **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020- November 2022)
 - **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020- August 2020) 
 
