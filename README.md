@@ -12,7 +12,7 @@
 
 ### Work Experience
 
-- **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020- November 2022)
+- **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020- Current)
 - **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020- August 2020) 
 
 ### Research Interests
