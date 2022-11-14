@@ -7,14 +7,14 @@
 
 
 ### Education
-- **Research Assistant**, [AIMS Lab](https://aimsl.uiu.ac.bd), ECE, United International University (Nov 2022 -)
 
-- **Bachelor of Science**, Electrical and Electronic Engineering ,Bangladesh University of Engineering and Technology (BUET) (2017-2022)
+- **Bachelor of Science**, [Electrical and Electronic Engineering ,Bangladesh University of Engineering and Technology](https://eee.buet.ac.bd) (2017-2022)
 
 ### Work Experience
 
-- Data Scientist, [Moonfrog Labs](https://moonfroglabs.com) (October 2020- November 2022)
-- Data Science Intern, [CRIDA](https://www.cridaction.org) (April 2020- August 2020) 
+- **Research Assistant**, [AIMS Lab](https://aimsl.uiu.ac.bd), ECE, United International University (Nov 2022 -)
+- **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020- November 2022)
+- **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020- August 2020) 
 
 ### Research Interests
 
