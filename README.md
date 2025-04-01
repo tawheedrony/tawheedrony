@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-- **Software Engineer**, [Telnyx](https://telnyx.com) (April 2024 - Dec 2024)
+- **Software Engineer**, [Telnyx](https://telnyx.com) (April 2023 - Dec 2024)
 - **Data Scientist**, [Moonfrog Labs](https://moonfroglabs.com) (October 2020 - March 2023)
 - **Data Science Intern**, [CRIDA](https://www.cridaction.org) (April 2020 - August 2020) 
 
